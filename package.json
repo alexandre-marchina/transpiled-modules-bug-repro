@@ -8,8 +8,11 @@
     "start": "next start"
   },
   "dependencies": {
+    "date-fns": "2.16.1",
     "next": "10.0.6",
+    "next-transpile-modules": "6.1.0",
     "react": "17.0.1",
-    "react-dom": "17.0.1"
+    "react-dom": "17.0.1",
+    "shared-ui": "file:__packages__/_shared-ui/shared-ui-1.0.0.tgz"
   }
 }
